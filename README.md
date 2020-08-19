@@ -8,6 +8,11 @@ I am Taiyi. I work as a front end developer in Taiwan.
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [如何製作口罩地圖(React+Leaflet)](https://moved0311.github.io/2020-02-15-maskmap/)
+- [Linked List](https://moved0311.github.io/2017-03-27-linkedList/)
+- [WebSearching](https://moved0311.github.io/2017-03-07-webSearching/)
+- [SocialCloudComputing](https://moved0311.github.io/2017-02-25-cloudComputing/)
+- [Start Gatsby blog](https://moved0311.github.io/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://moved0311.github.io/
