@@ -1,4 +1,5 @@
-## Hi there 👋, I am Taiyi. I work as a front end developer in Taiwan.
+## Hi there 👋 
+I am Taiyi. I work as a front end developer in Taiwan.
 
 ## Connect with me:
 
