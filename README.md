@@ -12,3 +12,5 @@ I am Taiyi. I work as a front end developer in Taiwan.
 
 [website]: https://moved0311.github.io/
 [facebook]: https://www.facebook.com/profile.php?id=100000329876068
+
+<!-- TODO: fix github action setting -->
