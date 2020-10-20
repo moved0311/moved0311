@@ -8,11 +8,11 @@ I am Taiyi. I work as a front end developer in Taiwan.
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic Programming](https://moved0311.github.io/2020-09-21-DP/)
+- [Palindromic Substrings](https://moved0311.github.io/2020-09-21-PalindromicSubString/)
+- [Kruslal's Minimum Spanning Tree](https://moved0311.github.io/2020-09-13-kruskal/)
 - [Time complexity](https://moved0311.github.io/2020-09-07-timeComplexity/)
 - [Insertion Sort](https://moved0311.github.io/2020-08-30-insertSort/)
-- [如何製作口罩地圖(React+Leaflet)](https://moved0311.github.io/2020-02-15-maskmap/)
-- [Linked List](https://moved0311.github.io/2017-03-27-linkedList/)
-- [WebSearching](https://moved0311.github.io/2017-03-07-webSearching/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://moved0311.github.io/
