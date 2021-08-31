@@ -24,3 +24,4 @@ I am Taiyi. I work as a front end developer in Taiwan.
 [linkedin]: https://www.linkedin.com/in/jiang-taiyi-7854ba205/
 
 <!-- TODO: fix github action setting -->
+<!-- update 20210830 -->
