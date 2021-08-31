@@ -11,12 +11,11 @@ I am Taiyi. I work as a front end developer in Taiwan.
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Linux 核心設計 2021q1 Homework1 (lab0)](https://moved0311.github.io/2021-03-22-linux-lab0-c/)
-- [CS50](https://moved0311.github.io/2021-03-03-CS0/)
-- [Graphql setup](https://moved0311.github.io/2020-12-17-graphql/)
-- [Dynamic Programming](https://moved0311.github.io/2020-09-21-DP/)
-- [Palindromic Substrings](https://moved0311.github.io/2020-09-21-PalindromicSubString/)
+- [ES10(ES2019)](https://moved0311.github.io/2021-08-29-ES10/)
+- [ES11(ES2020)](https://moved0311.github.io/2021-08-29-ES11/)
+- [ES8(ES2017)](https://moved0311.github.io/2021-08-29-ES8/)
+- [ES9(ES2018)](https://moved0311.github.io/2021-08-29-ES9/)
+- [ES7(ES2016)](https://moved0311.github.io/2021-08-29-ES7/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://moved0311.github.io/
