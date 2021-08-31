@@ -12,11 +12,11 @@ I am Taiyi. I work as a front end developer in Taiwan.
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Linux 核心設計 2021q1 Homework1 (lab0)](https://moved0311.github.io/2021-03-22-linux-lab0-c/)
+- [CS50](https://moved0311.github.io/2021-03-03-CS0/)
+- [Graphql setup](https://moved0311.github.io/2020-12-17-graphql/)
 - [Dynamic Programming](https://moved0311.github.io/2020-09-21-DP/)
 - [Palindromic Substrings](https://moved0311.github.io/2020-09-21-PalindromicSubString/)
-- [Kruslal's Minimum Spanning Tree](https://moved0311.github.io/2020-09-13-kruskal/)
-- [Time complexity](https://moved0311.github.io/2020-09-07-timeComplexity/)
-- [Insertion Sort](https://moved0311.github.io/2020-08-30-insertSort/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://moved0311.github.io/
@@ -24,4 +24,3 @@ I am Taiyi. I work as a front end developer in Taiwan.
 [linkedin]: https://www.linkedin.com/in/jiang-taiyi-7854ba205/
 
 <!-- TODO: fix github action setting -->
-<!-- update 20210830 -->
