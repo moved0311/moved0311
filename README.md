@@ -11,6 +11,7 @@ I am Taiyi. I work as a front end developer in Taiwan.
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [ES10(ES2019)](https://moved0311.github.io/2021-08-29-ES10/)
 - [ES11(ES2020)](https://moved0311.github.io/2021-08-29-ES11/)
 - [ES8(ES2017)](https://moved0311.github.io/2021-08-29-ES8/)
@@ -23,3 +24,4 @@ I am Taiyi. I work as a front end developer in Taiwan.
 [linkedin]: https://www.linkedin.com/in/jiang-taiyi-7854ba205/
 
 <!-- TODO: fix github action setting -->
+<!-- update 20210905 -->
