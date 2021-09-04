@@ -4,9 +4,9 @@ I am Taiyi. I work as a front end developer in Taiwan.
 
 ## Connect with me:
 
-[<img alt="website" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/blogger.svg" width="26px"/>][website]
-[<img alt="fb" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="26px"/>][facebook]
-[<img alt="linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="26px"/>][linkedin]
+[<img alt="website" src="https://cdn-icons-png.flaticon.com/512/220/220208.png" width="26px"/>][website]
+[<img alt="fb" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" width="26px"/>][facebook]
+[<img alt="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="26px"/>][linkedin]
 
 ## Blog posts
 
