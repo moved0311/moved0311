@@ -11,7 +11,6 @@ I am Taiyi. I work as a front end developer in Taiwan.
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [鉅亨網前端工作一年心得](https://moved0311.github.io/2022-10-23-Work-Experience/)
 - [ES6-ES12](https://moved0311.github.io/2021-08-29-ES6/)
 - [Linux 核心設計 2021q1 Homework1 &lpar;lab0&rpar;](https://moved0311.github.io/2021-03-22-linux-lab0-c/)
