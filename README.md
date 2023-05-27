@@ -12,7 +12,7 @@ I am Taiyi. I work as a front end developer in Taiwan.
 
 <!-- BLOG-POST-LIST:START -->
 - [Bit Manipulation](https://moved0311.github.io/2023-03-17-bit-manipulation/)
-- [將UI元件庫發佈到Gitlab上](https://moved0311.github.io/2023-03-02-publish-to-gitlab/Publish%20to%20gitlab%20registry/)
+- [將UI元件庫發佈到Gitlab上](https://moved0311.github.io/2023-03-02-publish-to-gitlab/Publish to gitlab registry/)
 - [Husky](https://moved0311.github.io/2023-02-03-husky/)
 - [Vscode快捷鍵](https://moved0311.github.io/2023-01-16-Vscode/)
 - [TypeScript](https://moved0311.github.io/2022-11-23-TypeScript/)
