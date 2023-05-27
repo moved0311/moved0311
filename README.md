@@ -11,11 +11,11 @@ I am Taiyi. I work as a front end developer in Taiwan.
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bit Manipulation](https://moved0311.github.io/2023-03-17-bit-manipulation/)
+- [將UI元件庫發佈到Gitlab上](https://moved0311.github.io/2023-03-02-publish-to-gitlab/Publish to gitlab registry/)
+- [Husky](https://moved0311.github.io/2023-02-03-husky/)
+- [Vscode快捷鍵](https://moved0311.github.io/2023-01-16-Vscode/)
 - [TypeScript](https://moved0311.github.io/2022-11-23-TypeScript/)
-- [鉅亨網前端工作一年心得](https://moved0311.github.io/2022-10-23-Work-Experience/)
-- [ES6-ES12](https://moved0311.github.io/2021-08-29-ES6/)
-- [Linux 核心設計 2021q1 Homework1 &lpar;lab0&rpar;](https://moved0311.github.io/2021-03-22-linux-lab0-c/)
-- [CS50](https://moved0311.github.io/2021-03-03-CS0/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Leetcode([profile](https://leetcode.com/moved0311/))
