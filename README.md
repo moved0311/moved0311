@@ -4,10 +4,10 @@ I am Taiyi. I work as a front end developer in Taiwan.
 
 ## Connect with me:
 
-[<img alt="website" src="https://cdn-icons-png.flaticon.com/512/220/220208.png" width="26px"/>][website]
-[<img alt="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="26px"/>][linkedin]
-[<img alt="resume" src="https://cdn-icons-png.flaticon.com/512/3135/3135692.png" width="26px"/>][resume]
-[<img alt="fb" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" width="26px"/>][facebook]
+<a href="https://moved0311.github.io/"><img alt="website" src="https://cdn-icons-png.flaticon.com/512/220/220208.png" width="26px"/></a>
+<a href="https://www.linkedin.com/in/jiang-taiyi-7854ba205/"><img alt="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="26px"/></a>
+<a href="https://moved0311.github.io/resume/"><img alt="resume" src="https://cdn-icons-png.flaticon.com/512/3135/3135692.png" width="26px"/></a>
+<a href="https://www.facebook.com/profile.php?id=100000329876068"><img alt="fb" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" width="26px"/></a>
 
 ## Blog posts
 
