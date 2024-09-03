@@ -11,9 +11,6 @@ I am Taiyi. I work as a frontend developer in Taiwan.
 
 
 
-## Leetcode([profile](https://leetcode.com/moved0311/))
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=moved0311)](https://github.com/KnlnKS/leetcode-stats)
 
 [website]:  https://www.taiyi.dev/
 [resume]: https://moved0311.github.io/resume/
