@@ -11,7 +11,6 @@ I am Taiyi. I work as a frontend developer in Taiwan.
 
 
 
-
 [website]:  https://www.taiyi.dev/
 [resume]: https://moved0311.github.io/resume/
 [facebook]: https://www.facebook.com/profile.php?id=100000329876068
